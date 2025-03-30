@@ -3,7 +3,7 @@
 Welcome to my capture-the-flag journey! Here's my ongoing progress through various CTFs.
 
 ![CTF Badge](https://img.shields.io/badge/CTF-Player-blue)
-![Writeups](https://img.shields.io/badge/Writeups-12-green)
+![Writeups](https://img.shields.io/badge/Writeups-1-green)
 
 ## ✅ Completed
 - [] picoCTF 2025
