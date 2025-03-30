@@ -1,10 +1,9 @@
 # Writeups go here!
 
----
 
 ## Example Write-up
 
-## Challenge: Web2 (200 pts)
+### Challenge: Web2 (200 pts)
 **Category:** Web  
 **Writeup:**
 1. Inspected the page source
