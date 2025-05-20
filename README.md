@@ -9,8 +9,7 @@ Welcome to my CTF writeups and progress tracker.
 - [picoCTF 2025](./2025/picoCTF)
 
 ## Recent Writeups
-- [RSA 101 - picoCTF](./2025/picoCTF/writeups/example.md)
-- [PW Crack 1 - picoCTF(./2025/picoCTF/writeups/PW_Crack_1.md)
+- [PW Crack 1 - picoCTF](./2025/picoCTF/writeups/PW_Crack_1.md)
 
 ## Writeups by Category
 - [Crypto](./2025/picoCTF/writeups/crypto)
