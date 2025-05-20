@@ -11,5 +11,5 @@ Welcome to my CTF writeups and progress tracker.
 ## Recent Writeups
 - [PW Crack 1 - picoCTF](./2025/picoCTF/writeups/PW_Crack_1.md)
 
-## Writeups by Category
-- [Crypto](./2025/picoCTF/writeups/crypto)
+## Writeups by Site
+- [Crypto](./2025/picoCTF/writeups/)
