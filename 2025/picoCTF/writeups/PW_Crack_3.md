@@ -145,7 +145,7 @@ echo -n "865e" | md5sum
 ---
 
 ## Flag
-`picoCTF{[decrypted_flag_here]}`
+`picoCTF{m45h_fl1ng1ng_2b072a90}`
 
 ---
 
